@@ -1,5 +1,5 @@
 {
-  "deptName": "信息管理与工程学院",
+  "deptName": "数学学院",
   "isDiagnosis": 0,
   "isSuspect": 0,
   "isFever": 0,
@@ -20,5 +20,5 @@
   "isVisitRiskArea":0,
   "isReturnFromHighrisk":0,
   "riskAreaName": null,
-  "vacationGoes": "C. 1月11日-2月27日不留校，寒假在云南-曲靖"
+  "vacationGoes": "C. 留校"
 }
