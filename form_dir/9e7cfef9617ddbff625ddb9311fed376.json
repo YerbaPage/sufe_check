@@ -19,6 +19,6 @@
   "travelCountrys": null,
   "isVisitRiskArea":0,
   "isReturnFromHighrisk":0,
-  "riskAreaName": null,
-  "vacationGoes": "A. 1月11日-2月27日留校"
+  "riskAreaName": null
+  // "vacationGoes": "A. 1月11日-2月27日留校"
 }
